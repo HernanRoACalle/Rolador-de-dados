@@ -30,7 +30,7 @@
     <AppXManifest Include="D:\2DS - DanielYHernan\PAM\RoladorDeDados\RoladorDeDados\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-09-25T01:03:42.660</Modified>
+      <Modified>2025-09-30T01:25:09.254</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS - DanielYHernan\PAM\RoladorDeDados\RoladorDeDados\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RoladorDeDados.dll">
       <PackagePath>RoladorDeDados.dll</PackagePath>
-      <Modified>2025-09-25T01:03:42.379</Modified>
+      <Modified>2025-09-30T01:25:08.426</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS - DanielYHernan\PAM\RoladorDeDados\RoladorDeDados\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>RoladorDeDados.exe</PackagePath>
-      <Modified>2025-09-25T01:03:42.379</Modified>
+      <Modified>2025-09-30T01:25:08.473</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS - DanielYHernan\PAM\RoladorDeDados\RoladorDeDados\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>

@@ -14,7 +14,9 @@
                 />
             <Label
                 x:Name="Numrandom"
-                Text=""/>
+                Text=""
+                HorizontalTextAlignment="Center"
+                FontSize="Title"/>
             <Picker x:Name="picker"
                 Title="Quantidade de lados">
                 <Picker.ItemsSource>
