@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VbHBMMQwL7o=",
+  "dgSpecHash": "/ROZ+x4K8gg=",
   "success": true,
   "projectFilePath": "D:\\2DS - DanielYHernan\\PAM\\RoladorDeDados\\RoladorDeDados\\RoladorDeDados.csproj",
   "expectedPackageFiles": [
@@ -117,8 +117,8 @@
     "D:\\NugetPackages\\microsoft.android.ref.34\\34.0.145\\microsoft.android.ref.34.34.0.145.nupkg.sha512",
     "D:\\NugetPackages\\microsoft.android.runtime.34.android-arm\\34.0.145\\microsoft.android.runtime.34.android-arm.34.0.145.nupkg.sha512",
     "D:\\NugetPackages\\microsoft.android.runtime.34.android-x86\\34.0.145\\microsoft.android.runtime.34.android-x86.34.0.145.nupkg.sha512",
+    "D:\\NugetPackages\\microsoft.ios.runtime.ios-arm64.net8.0_18.0\\18.0.8316\\microsoft.ios.runtime.ios-arm64.net8.0_18.0.18.0.8316.nupkg.sha512",
     "D:\\NugetPackages\\microsoft.ios.ref.net8.0_18.0\\18.0.8316\\microsoft.ios.ref.net8.0_18.0.18.0.8316.nupkg.sha512",
-    "D:\\NugetPackages\\microsoft.ios.runtime.iossimulator-x64.net8.0_18.0\\18.0.8316\\microsoft.ios.runtime.iossimulator-x64.net8.0_18.0.18.0.8316.nupkg.sha512",
     "D:\\NugetPackages\\microsoft.maccatalyst.runtime.maccatalyst-x64.net8.0_18.0\\18.0.8316\\microsoft.maccatalyst.runtime.maccatalyst-x64.net8.0_18.0.18.0.8316.nupkg.sha512",
     "D:\\NugetPackages\\microsoft.maccatalyst.ref.net8.0_18.0\\18.0.8316\\microsoft.maccatalyst.ref.net8.0_18.0.18.0.8316.nupkg.sha512",
     "D:\\NugetPackages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512"

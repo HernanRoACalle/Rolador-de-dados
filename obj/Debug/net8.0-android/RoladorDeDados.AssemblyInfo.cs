@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoladorDeDados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+50f1751867b03cde39129ab107f9610ae33fb404")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+8865408e59bc893d7bf0bbe341d96e63e72827b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoladorDeDados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoladorDeDados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

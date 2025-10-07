@@ -30,25 +30,25 @@
     <AppXManifest Include="D:\2DS - DanielYHernan\PAM\RoladorDeDados\RoladorDeDados\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-09-30T01:25:09.254</Modified>
+      <Modified>2025-10-07T01:24:25.907</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\2DS - DanielYHernan\PAM\RoladorDeDados\RoladorDeDados\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-09-23T01:24:32.973</Modified>
+      <Modified>2025-10-07T01:24:25.719</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS - DanielYHernan\PAM\RoladorDeDados\RoladorDeDados\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RoladorDeDados.runtimeconfig.json">
       <PackagePath>RoladorDeDados.runtimeconfig.json</PackagePath>
-      <Modified>2025-09-23T01:24:32.570</Modified>
+      <Modified>2025-10-07T00:42:50.380</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS - DanielYHernan\PAM\RoladorDeDados\RoladorDeDados\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RoladorDeDados.dll">
       <PackagePath>RoladorDeDados.dll</PackagePath>
-      <Modified>2025-09-30T01:25:08.426</Modified>
+      <Modified>2025-10-07T01:24:24.621</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS - DanielYHernan\PAM\RoladorDeDados\RoladorDeDados\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>RoladorDeDados.exe</PackagePath>
-      <Modified>2025-09-30T01:25:08.473</Modified>
+      <Modified>2025-10-07T01:24:24.668</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS - DanielYHernan\PAM\RoladorDeDados\RoladorDeDados\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -288,7 +288,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS - DanielYHernan\PAM\RoladorDeDados\RoladorDeDados\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RoladorDeDados.deps.json">
       <PackagePath>RoladorDeDados.deps.json</PackagePath>
-      <Modified>2025-09-23T01:24:32.445</Modified>
+      <Modified>2025-10-07T01:24:25.531</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\NugetPackages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
